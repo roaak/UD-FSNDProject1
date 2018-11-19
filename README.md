@@ -1,8 +1,10 @@
 # UD-FSNDProject1
 In This project we are dealing with queries in python in mediam DB , and learn how to link and join tables.
 
+Enviroment:
 
 DB: postegreSQL
+:
 Python version: 2 and 3
 
 
