@@ -77,22 +77,30 @@ The output should be as following:
 
 
 Most popular articles:
-        Candidate is jerk, alleges rival - 338647 Views
-        Bears love berries, alleges bear - 253801 Views
-        Bad things gone, say good people - 170098 Views
+
+        - Candidate is jerk, alleges rival - 338647 Views
+        
+        - Bears love berries, alleges bear - 253801 Views
+        
+        - Bad things gone, say good people - 170098 Views
 
 
 
 Most popular authors:
-        Ursula La Multa - 507594 views
-        Rudolf von Treppenwitz - 423457 views
-        Anonymous Contributor - 170098 views
-        Markoff Chaney - 84557 views
+
+       -  Ursula La Multa - 507594 views
+       
+       -  Rudolf von Treppenwitz - 423457 views
+       
+       -  Anonymous Contributor - 170098 views
+       
+       -  Markoff Chaney - 84557 views
 
 
 
 Days with more than 1% errors:
-        2016-07-17 ---> 2.26 %
+
+        - 2016-07-17 ---> 2.26 %
 
 
 
@@ -101,17 +109,19 @@ Days with more than 1% errors:
 
 1- First load the data from the sql file:
 
-'psql -d news -f newsdata.sql'
+psql -d news -f newsdata.sql
 
 2- Then connect to the database:
 
 'psql -d news'
 
 3- To view all DB tables type:
-'\dt'
+
+\dt
 
 4- To see table details type:
-'\d log' 
+
+\d log
 
 *log is a table name in the news database*
 
