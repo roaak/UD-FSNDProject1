@@ -100,7 +100,7 @@ Most popular authors:
 
 Days with more than 1% errors:
 
-        - 2016-07-17 ---> 2.26 %
+        - 2016-07-17 -- 2.26 %
 
 
 
