@@ -42,7 +42,7 @@ built-in Terminal.
 
 5. Vagrant: (https://www.vagrantup.com/downloads.html)
 
-6. Virtual Machine v5.1.38: https://www.virtualbox.org/wiki/Downloads
+6. Virtual Machine v5.1.38: (https://www.virtualbox.org/wiki/Downloads)
  
 
 
@@ -113,7 +113,7 @@ psql -d news -f newsdata.sql
 
 2- Then connect to the database:
 
-'psql -d news'
+psql -d news
 
 3- To view all DB tables type:
 
