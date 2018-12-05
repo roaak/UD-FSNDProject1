@@ -66,7 +66,7 @@ Commands*
 
 6. Go again to vagrant folder: cd /vagrant
 
-7. run the python file(project with the following command: python3 project_log_roaa.py
+7. run the python file project with the following command: python3 project_log_roaa.py
 
 *Please note that the python file should be in the same folder with vagrant vm folder and newsdata.sql*
 
