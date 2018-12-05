@@ -80,3 +80,10 @@ def QueryLog(query):
    
 if __name__ == '__main__':
    main()
+
+
+
+   #References used in this code:
+   #for round function https://stackoverflow.com/questions/36531361/calculate-percentage-between-two-columns-in-sql-query-as-another-column
+   #To print the result of SQL in neat way http://www.mikusa.com/python-mysql-docs/row_results.html
+   # Also https://thepythonguru.com/fetching-results/
