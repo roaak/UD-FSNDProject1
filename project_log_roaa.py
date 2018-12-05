@@ -47,7 +47,7 @@ def QueryArt(query):
         c.execute(query)
         result=c.fetchall()
         for row in result :
-                print ("\t"  + row[0] + " - " + str(row[2]) + " Views")      
+                print ("\t"  + row[0] + " - " + str(row[2]) + " views")      
 #close connection
         db.close()
         print ('---------------------------------------------------------------')
