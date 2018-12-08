@@ -1,14 +1,14 @@
----------------------------------------------------------------
-Most popular articles :
-        Candidate is jerk, alleges rival - 338647 Views
-        Bears love berries, alleges bear - 253801 Views
-        Bad things gone, say good people - 170098 Views
----------------------------------------------------------------
+Most popular articles:
+        Candidate is jerk, alleges rival - 338647 views
+        Bears love berries, alleges bear - 253801 views
+        Bad things gone, say good people - 170098 views
+------------------------------
 Most popular Authors:
         Ursula La Multa - 507594 views
         Rudolf von Treppenwitz - 423457 views
         Anonymous Contributor - 170098 views
         Markoff Chaney - 84557 views
----------------------------------------------------------------
+------------------------------
 Days with more than 1% errors:
-        2016-07-17 -- 2.26 % errors
+        2016-07-17 -- 2.26% errors
+------------------------------
